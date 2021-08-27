@@ -39,3 +39,24 @@ body {
     font-family: 'Fraunces', serif;
     font-family: 'Barlow', sans-serif;
 }
+
+
+
+
+
+
+
+
+/* Media Query */
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 480px) {
+
+}
+
+@media screen and (max-width: 320px) {
+    
+}
